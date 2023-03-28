@@ -1,4 +1,4 @@
-# Hollywood Most Profitable Stories
+### Hollywood Most Profitable Stories
 Power BI and R Project
 
 Project Aim: To analyse the performance of Hollywood movie releases from years 2007-2012.
