@@ -1,6 +1,17 @@
 # Hollywood Most Profitable Stories
 Power BI and R Project
 
+Project Aim: To analyse the performance of Hollywood movie releases from years 2007-2012.
+Data Source: InformationIsBeautiful.net
+
+Step 1: Initial Exploratory Analysis
+Step 2: Clean Data
+Step 2.1: Outlier Removal
+Step 3: Exploratory Analysis
+Step 4: Export Data
+Step 5: Create Power BI Dashboard
+
+
 
 
 
